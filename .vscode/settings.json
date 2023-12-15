@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fd8ab286-eb06-44d7-8faa-d189f0835829/resourceGroups/Azure_SRNA_Dev_Environment_RG/providers/Microsoft.Web/sites/azdevbi-compliance-help-demo",
+    "appService.deploySubpath": ".devcontainer"
+}
